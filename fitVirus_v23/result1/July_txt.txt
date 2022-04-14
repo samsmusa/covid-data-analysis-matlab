@@ -1,0 +1,16 @@
+Summary
+-------
+ date: 31-Jul-2020  day: 146
+ start date: 08-Mar-2020 
+ number of cases: 237661
+ estimated epidemic size (cases): 262412
+ estimated epidemic rate (1/day): 5.796628e-02
+ estimated initial state (cases): 437
+ estimated initial doubling time (day): 12.0
+ estimated duration of fast growth phase (day): 69
+ estimated peak date: 26-Jun-2020  day: 110 
+ estimated peak rate (cases/day): 3802
+ estimated end of transition phase: 14-Oct-2020  day: 220
+ epidemic phase: 4/5 slow growth transition phase
+Statistics: total R2 =  1.000, rate R2 =  0.949
+ root mean square error: 1.716439e+03
